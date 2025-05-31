@@ -13,7 +13,7 @@
 ## Target Variable: American Options Price
 
 ## Features Used:
-  * Historical Option Prices
+  * Historical Option Strike Prices
   * Underlying asset prices
   * Option Greeks
   * Interest rates
