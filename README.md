@@ -4,7 +4,7 @@
 
 # Introduction
 
-## Goal:
+## Goal: To predict American Options prices
 
 ## Data:
 
